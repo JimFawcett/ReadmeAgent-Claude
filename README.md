@@ -2,6 +2,10 @@
 
 A Python-based agent that automatically generates professional README.md files for GitHub repositories with customizable templates.
 
+## Note
+
+In this repository, code and this README.md file were created by Anthropic Claude
+
 ## Features
 
 - **GitHub API Integration**: Fetches repository metadata automatically
